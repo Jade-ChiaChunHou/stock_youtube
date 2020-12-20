@@ -1,4 +1,9 @@
-# 台股
+# 股市分析
+## 畫K線圖 - 最好用的套件分享
+> - Youtube影片：https://youtu.be/FX6YAyOdEaE
+> - 程式碼：
+
+# 下載台股資料
 ## 下載歷年台股大盤指數
 > - Youtube影片：https://youtu.be/taiSnAeTs7Y
 > - 程式碼：https://github.com/Jade-ChiaChunHou/stock_youtube/blob/master/%E4%B8%8B%E8%BC%89%E7%99%BC%E8%A1%8C%E9%87%8F%E5%8A%A0%E6%AC%8A%E8%82%A1%E5%83%B9%E6%8C%87%E6%95%B8%E6%AD%B7%E5%8F%B2%E8%B3%87%E6%96%99.ipynb
@@ -15,7 +20,7 @@
 > - Youtube影片：https://youtu.be/_4CEymrQbV8
 > - 程式碼：https://github.com/Jade-ChiaChunHou/stock_youtube/blob/master/%E4%B8%8B%E8%BC%89%E5%8F%B0%E8%82%A1%E6%AD%B7%E5%B9%B4%E5%80%8B%E8%82%A1%E8%B3%87%E6%96%99.ipynb
 
-# 美股
+# 下載美股資料
 ## 下載美股個股資料
 > - Youtube影片：hhttps://youtu.be/ZIFmDbIb-ro
 > - 程式碼：https://github.com/Jade-ChiaChunHou/stock_youtube/blob/master/%E4%B8%8B%E8%BC%89%E7%BE%8E%E8%82%A1%E5%80%8B%E8%82%A1%E8%B3%87%E6%96%99.ipynb
