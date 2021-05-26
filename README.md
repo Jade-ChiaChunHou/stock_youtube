@@ -1,7 +1,11 @@
 # 股市分析
-## 畫K線圖 - 最好用的套件分享
+## K線 - 最好用的畫圖套件分享
 > - Youtube影片：https://youtu.be/FX6YAyOdEaE
 > - 程式碼：https://github.com/Jade-ChiaChunHou/stock_youtube/blob/master/%E7%B9%AA%E8%A3%BDK%E7%B7%9A%E5%9C%96.html
+
+## 均線 - 
+> - Youtube影片：
+> - 程式碼：
 
 # 下載台股資料
 ## 下載歷年台股大盤指數
