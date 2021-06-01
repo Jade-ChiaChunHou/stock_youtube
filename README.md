@@ -4,7 +4,7 @@
 > - 程式碼：https://github.com/Jade-ChiaChunHou/stock_youtube/blob/master/%E7%B9%AA%E8%A3%BDK%E7%B7%9A%E5%9C%96.html
 
 ## 均線 - 10分鐘學會技術分析
-> - Youtube影片：
+> - Youtube影片：https://youtu.be/58zV2j7h3r4
 > - 程式碼：https://github.com/Jade-ChiaChunHou/stock_youtube/blob/master/%E5%9D%87%E7%B7%9A%E5%88%86%E6%9E%90.ipynb
 
 # 下載台股資料
