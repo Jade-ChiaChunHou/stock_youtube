@@ -1,10 +1,10 @@
 # 股市分析
-## K線 - 最好用的畫圖套件分享
+### K線 - 最好用的畫圖套件分享
 > - <p>Youtube影片：<a href="https://youtu.be/FX6YAyOdEaE" title="Title">【股市分析】用K線預測大盤趨勢｜最好用Python套件分享</a></p>
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E5%B8%82%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90/K%E7%B7%9A%E5%88%86%E6%9E%90.ipynb" title="Title">K線分析.ipynb</a></p>
 > - 程式碼：https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E5%B8%82%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90/K%E7%B7%9A%E5%88%86%E6%9E%90.ipynb
 
-## 均線 - 10分鐘學會技術分析
+### 均線 - 10分鐘學會技術分析
 > - <p>Youtube影片：<a href="https://youtu.be/58zV2j7h3r4" title="Title">【股市分析】從均線看個股強弱｜用Python畫出黃金/死亡交叉</a></p>
 > - 程式碼：https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E5%B8%82%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90/%E5%9D%87%E7%B7%9A%E5%88%86%E6%9E%90.ipynb
 
