@@ -8,14 +8,15 @@
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E5%B8%82%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90/%E5%9D%87%E7%B7%9A%E5%88%86%E6%9E%90.ipynb" title="Title">均線分析.ipynb</a></p>
 
 
+
 # 下載股市資料
 ### 下載台股歷年個股資料
 > - <p>Youtube影片：<a href="https://youtu.be/_4CEymrQbV8" title="Title">【Python 爬蟲】台股個股資料免費下載｜選擇想要的個股資料！</a></p>
-> - 程式碼：https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E4%B8%8B%E8%BC%89%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99/%E4%B8%8B%E8%BC%89%E5%8F%B0%E8%82%A1%E6%AD%B7%E5%B9%B4%E5%80%8B%E8%82%A1%E8%B3%87%E6%96%99.ipynb
+> - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E4%B8%8B%E8%BC%89%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99/%E4%B8%8B%E8%BC%89%E5%8F%B0%E8%82%A1%E6%AD%B7%E5%B9%B4%E5%80%8B%E8%82%A1%E8%B3%87%E6%96%99.ipynb" title="Title">下載台股歷年個股資料.ipynb</a></p>
 
 ### 下載歷年台股大盤指數
 > - <p>Youtube影片：<a href="https://youtu.be/taiSnAeTs7Y" title="Title">【Python 爬蟲】台股大盤資料免費下載｜不必再到證交所的網站慢慢下載！</a></p>
-> - 程式碼：https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E4%B8%8B%E8%BC%89%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99/%E4%B8%8B%E8%BC%89%E7%99%BC%E8%A1%8C%E9%87%8F%E5%8A%A0%E6%AC%8A%E8%82%A1%E5%83%B9%E6%8C%87%E6%95%B8%E6%AD%B7%E5%8F%B2%E8%B3%87%E6%96%99.ipynb
+> - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E4%B8%8B%E8%BC%89%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99/%E4%B8%8B%E8%BC%89%E7%99%BC%E8%A1%8C%E9%87%8F%E5%8A%A0%E6%AC%8A%E8%82%A1%E5%83%B9%E6%8C%87%E6%95%B8%E6%AD%B7%E5%8F%B2%E8%B3%87%E6%96%99.ipynb" title="Title">下載發行量加權股價指數歷史資料.ipynb</a></p>
 
 ### 下載歷年台股市場成交資訊
 > - <p>Youtube影片：<a href="https://youtu.be/JXGl6pfvB-o" title="Title">【Python 爬蟲】台股市場成交資訊免費下載｜從成交量判斷大盤進出點</a></p>
