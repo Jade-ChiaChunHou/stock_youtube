@@ -28,4 +28,5 @@
 # 下載美股資料
 ## 下載美股個股資料
 > - Youtube影片：https://youtu.be/ZIFmDbIb-ro
+> - - <p>This is <a href="https://youtu.be/ZIFmDbIb-ro" title="Title"> 【Python 股票】美股個股資料免費下載｜用Yahoo財經套件(yfinance)取得資料｜擺脫限制</a> inline link.</p>
 > - 程式碼：https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E4%B8%8B%E8%BC%89%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99/%E4%B8%8B%E8%BC%89%E7%BE%8E%E8%82%A1%E5%80%8B%E8%82%A1%E8%B3%87%E6%96%99.ipynb
