@@ -27,5 +27,7 @@
 # 下載美股資料
 ## 下載美股個股資料
 > - Youtube影片：https://youtu.be/ZIFmDbIb-ro
-> <a href="https://youtu.be/ZIFmDbIb-ro"</a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 > - 程式碼：https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E4%B8%8B%E8%BC%89%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99/%E4%B8%8B%E8%BC%89%E7%BE%8E%E8%82%A1%E5%80%8B%E8%82%A1%E8%B3%87%E6%96%99.ipynb
