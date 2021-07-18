@@ -22,7 +22,7 @@
 
 ## 下載台股歷年個股資料
 > - Youtube影片：https://youtu.be/_4CEymrQbV8
-<p>This is <a href="https://youtu.be/_4CEymrQbV8" title="Title"> an example</a> inline link.</p>
+> - <p>This is <a href="https://youtu.be/_4CEymrQbV8" title="Title"> an example</a> inline link.</p>
 > - 程式碼：https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E4%B8%8B%E8%BC%89%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99/%E4%B8%8B%E8%BC%89%E5%8F%B0%E8%82%A1%E6%AD%B7%E5%B9%B4%E5%80%8B%E8%82%A1%E8%B3%87%E6%96%99.ipynb
 
 # 下載美股資料
