@@ -7,6 +7,7 @@
 > - <p>Youtube影片：<a href="https://youtu.be/58zV2j7h3r4" title="Title">【股市分析】從均線看個股強弱｜用Python畫出黃金/死亡交叉</a></p>
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E8%82%A1%E5%B8%82%E6%8A%80%E8%A1%93%E5%88%86%E6%9E%90/%E5%9D%87%E7%B7%9A%E5%88%86%E6%9E%90.ipynb" title="Title">均線分析.ipynb</a></p>
 
+
 # 下載股市資料
 ### 下載台股歷年個股資料
 > - <p>Youtube影片：<a href="https://youtu.be/_4CEymrQbV8" title="Title">【Python 爬蟲】台股個股資料免費下載｜選擇想要的個股資料！</a></p>
