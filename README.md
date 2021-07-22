@@ -15,7 +15,7 @@
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E4%B8%8B%E8%BC%89%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99/%E4%B8%8B%E8%BC%89%E5%8F%B0%E8%82%A1%E6%AD%B7%E5%B9%B4%E5%80%8B%E8%82%A1%E8%B3%87%E6%96%99.ipynb" title="Title">下載台股歷年個股資料.ipynb</a></p>
 
 ### 下載台指選Put/Call比資料
-> - <p>Youtube影片：<a href="https://youtu.be/T232YbFt1s4" title="Title">【Python 爬蟲】台指選擇權Put/Call比免費下載｜股市多空頭趨勢預測</a></p>
+> - <p>Youtube影片：<a href="https://youtu.be/RqodmAWC8EE" title="Title">【Python 爬蟲】台指選擇權Put/Call比免費下載｜股市多空頭趨勢預測</a></p>
 > - <p>程式碼：<a href="https://github.com/Jade-ChiaChunHou/Youtube_finance_analysis/blob/master/%E4%B8%8B%E8%BC%89%E8%82%A1%E5%B8%82%E8%B3%87%E6%96%99/%E4%B8%8B%E8%BC%89%E6%9C%9F%E4%BA%A4%E6%89%80%E8%87%BA%E6%8C%87%E9%81%B8%E6%93%87%E6%AC%8APut%20Call%20Ratios%E7%B5%B1%E8%A8%88%E8%A1%A8_30%E5%A4%A9%E5%85%A7.ipynb" title="Title">下載期交所臺指選擇權Put Call Ratios統計表_30天內.ipynb</a></p>
 > - <p>Colab程式碼：<a href="https://colab.research.google.com/drive/1GuBdgt2yBFyV6CjAxVFc5Q5KGHNVFGwE?usp=sharing" title="Title">下載期交所臺指選擇權Put Call Ratios統計表_30天內.ipynb</a></p>
 
